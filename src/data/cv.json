@@ -1,0 +1,236 @@
+{
+  "en": {
+    "about": {
+      "name": "Mohamed El Mouslih",
+      "jobTitle": "Embedded systems Engineer",
+      "bio" : " I'm a Model-Based Design Engineer with 3 years of experience using MATLAB and Simulink to develop reliable solutions from complex system requirements. I hold a Master’s in Electrical Engineering and focus on simulation, control systems, signal processing, and embedded model development. My work connects theory to practice, making sure models are accurate, testable, and integration-ready. I enjoy working where engineering meets innovation—through clean design, teamwork, and meaningful results.",
+      "downloadCV": "/cv-EL-MOUSLIH-MOHAMED-research-en.pdf",
+      "location": "Rabat, Morocco",
+      "phone": "+212600754492",
+      "email": "elmouslihmohamed@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mohamed-el-mouslih-250572139/"
+    },
+    "summary": "",
+    "experience": [
+      {
+        "projectTitle": "Matlab-Simulink Developer for Stellantis (Opel Automobile)",
+        "company": "ALTEN Delivery Center",
+        "duration": "Jan 2024 - Present",
+        "projectDescription": "Developed models and signal processing scripts to analyze NVH (Noise, Vibration, and Harshness) data and support system validation.",
+        "tasks": [
+          " Analysis of customer requirements and evaluation of their feasibility.",
+          " Modeling NVH systems and components using Simulink and MATLAB scripts.",
+          " Implementing signal processing algorithms for vibration and acoustic analysis (FFT, filtering, order tracking, etc.).",
+          " Unit testing to detect anomalies and debugging to resolve them.",
+          " Compiling and generating executables for the Guest User Interface application.",
+          " Delivery of the application and Simulink model via GitHub.",
+          " Addressed post-delivery bugs based on customer feedback."
+        ]
+      },
+      {
+        "projectTitle": "Model-Based Design Developer for PSA Group",
+        "company": "ALTEN Delivery Center",
+        "duration": "Jun 2022 - Jan 2024",
+        "projectDescription": "Developed high-abstraction-level AUTOSAR software components (ASWCs) using a Model-Based Design (MBD) approach, and owned the Interior Lighting function.",
+        "tasks": [
+          "Proofreading customer requirements to assess feasibility.",
+          "Implementing requirements using MATLAB/Simulink and Stateflow following the Model-Based Design (MBD) approach.",
+          "Ensuring high-quality deliverables through functional verification using Model-in-the-Loop (MIL), Software-in-the-Loop (SIL), and Back-to-Back testing.",
+          "Generating code for AUTOSAR software components from Simulink/Stateflow models using Embedded Coder.",
+          "Ensuring compliance of deliverables with MISRA C, MAB guidelines, and ISO 26262 standards.",
+          "Analyzing software defects reported by validation teams using CANalyzer and MATLAB/Simulink.",
+          "Reviewing and approving deliverables for quality assurance using Git/GitHub."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's degree in Industrial Computer Control, Signals and Systems",
+        "school": "Faculty of Science I Cadi Ayyad University-Marrakech",
+        "duration": "Sep 2018 - Jun 2020",
+        "details": "Master's degree in Industrial Computer Control, Signals and Systems."
+      },
+      {
+        "degree": "Licence degree in Science and Technology, with a focus on Computer Science, Electronics, Electrotechnics, and Automation",
+        "school": "Faculty of Science & Technology I Cadi Ayyad University-Marrakech",
+        "duration": "Sep 2017 - Jun 2018",
+        "details": "Licence degree in Science and Technology, with a focus on Computer Science, Electronics, Electrotechnics, and Automation."
+      },
+      {
+        "degree": "High school diploma in Experimental Sciences, specialized in Physics and Chemistry",
+        "school": "Abi Abbes Sebti High school - Marrakech",
+        "duration": "Sep 2013 - Jul 2014",
+        "details": "High school diploma in Experimental Sciences, specialized in Physics and Chemistry."
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Matlab",
+        "Simulink",
+        "C",
+        "Python",
+        "JAVA",
+        "CAN-LIN-Flexray",
+        "ADAS",
+        "BMS",
+        "AUTOSAR",
+        "ISO26262",
+        "Modeling",
+        "Control theory"
+      ],
+      "soft": [
+        "Collaboration",
+        "Problem-solving",
+        "Communication",
+        "Time management"
+      ]
+    },
+    "languages": ["English - B2", "French - B2"],
+    "projects": [
+      {
+        "title": "Autonomous Drone Swarm for Smart Agriculture",
+        "description": "Designed and implemented a fleet of autonomous drones equipped with embedded systems for real-time crop monitoring and precision pesticide delivery. Integrated wireless sensor networks, GPS-based navigation, and adaptive control algorithms to optimize field coverage and resource usage.",
+        "technologies": [
+          "Embedded C",
+          "STM32",
+          "RTOS",
+          "Wireless Sensor Networks",
+          "GPS",
+          "Control Theory"
+        ],
+        "year": "2023",
+        "tags": ["Embedded Systems", "Agriculture", "Drones"]
+      },
+      {
+        "title": "Self-Balancing Electric Unicycle",
+        "description": "Developed a self-balancing electric unicycle using advanced control theory and embedded software. Implemented sensor fusion with IMU data, real-time PID control, and Bluetooth diagnostics for stability and user feedback.",
+        "technologies": [
+          "MATLAB/Simulink",
+          "Arduino",
+          "IMU Sensors",
+          "PID Control",
+          "Bluetooth"
+        ],
+        "year": "2022",
+        "tags": ["Control Theory", "Robotics", "Unicycle"]
+      }
+    ]
+  },
+  "fr": {
+    "about": {
+      "name": "Mohamed El Mouslih",
+      "jobTitle": "Ingénieur systèmes embarqués",
+      "bio":"Je suis ingénieur en conception basée sur les modèles (Model-Based Design) avec 3 ans d’expérience dans le développement de solutions fiables à partir de spécifications systèmes complexes, en utilisant MATLAB et Simulink. Titulaire d’un Master en Génie Électrique, je me spécialise en simulation, systèmes de contrôle, traitement du signal et développement de modèles pour des applications embarquées. Mon travail fait le lien entre la théorie et la pratique, en veillant à ce que les modèles soient précis, testables et prêts pour l’intégration. J’aime évoluer à l’intersection de l’ingénierie et de l’innovation, là où le design soigné, la collaboration et l’impact concret se rencontrent.",
+      "downloadCV": "/cv-EL-MOUSLIH-MOHAMED-research-fr.pdf",
+      "location": "Rabat, Maroc",
+      "phone": "+212600754492",
+      "email": "elmouslihmohamed@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mohamed-el-mouslih-250572139/"
+    },
+    "summary": "Ingénieur passionné avec une expertise en systèmes de contrôle et logiciels embarqués, axé sur l'automobile. Compétences solides en résolution de problèmes et communication.",
+    "experience": [
+      {
+        "jobTitle": "Développeur Matlab-Simulink pour Stellantis (Opel Automobile)",
+        "company": "ALTEN Delivery Center",
+        "duration": "Jan 2024 - Présent",
+        "description": [
+          "Développement de modèles et scripts de traitement du signal pour analyser les données NVH (Bruit, Vibration et Rigidité) et soutenir la validation du système.",
+          "Analyse des exigences des clients et évaluation de leur faisabilité.",
+          "Modélisation des systèmes et composants NVH à l'aide de Simulink et de scripts MATLAB.",
+          "Mise en œuvre d'algorithmes de traitement du signal pour l'analyse des vibrations et acoustiques (FFT, filtrage, suivi d'ordre, etc.).",
+          "Tests unitaires pour détecter les anomalies et débogage pour les résoudre.",
+          "Compilation et génération d'exécutables pour l'application de l'interface utilisateur invité.",
+          "Livraison de l'application et du modèle Simulink via GitHub.",
+          "Résolution des bugs post-livraison en fonction des retours clients."
+        ]
+      },
+      {
+        "jobTitle": "Développeur de conception basée sur des modèles pour le groupe PSA",
+        "company": "ALTEN Delivery Center",
+        "duration": "Juin 2022 - Jan 2024",
+        "description": [
+          "Développement de composants logiciels AUTOSAR de haut niveau d'abstraction (ASWCs) en utilisant une approche de conception basée sur des modèles (MBD), et responsable de la fonction d'éclairage intérieur.",
+          "Relecture des exigences des clients pour évaluer la faisabilité.",
+          "Mise en œuvre des exigences à l'aide de MATLAB/Simulink et Stateflow suivant l'approche de conception basée sur des modèles (MBD).",
+          "Assurer des livrables de haute qualité grâce à la vérification fonctionnelle en utilisant Model-in-the-Loop (MIL), Software-in-the-Loop (SIL) et tests Back-to-Back.",
+          "Génération de code pour les composants logiciels AUTOSAR à partir de modèles Simulink/Stateflow en utilisant Embedded Coder.",
+          "Assurer la conformité des livrables avec les normes MISRA C, MAB et ISO 26262.",
+          "Analyse des défauts logiciels signalés par les équipes de validation à l'aide de CANalyzer et MATLAB/Simulink.",
+          "Revue et approbation des livrables pour l'assurance qualité en utilisant Git/GitHub."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master en Contrôle Informatique Industriel, Signaux et Systèmes",
+        "school": "Faculté des Sciences I Université Cadi Ayyad-Marrakech",
+        "duration": "Sep 2018 - Juin 2020",
+        "details": "Master en Contrôle Informatique Industriel, Signaux et Systèmes."
+      },
+      {
+        "degree": "Licence en Sciences et Technologies, avec une spécialisation en Informatique, Électronique, Électrotechnique et Automatisation",
+        "school": "Faculté des Sciences & Technologies I Université Cadi Ayyad-Marrakech",
+        "duration": "Sep 2017 - Juin 2018",
+        "details": "Licence en Sciences et Technologies, avec une spécialisation en Informatique, Électronique, Électrotechnique et Automatisation."
+      },
+      {
+        "degree": "Baccalauréat en Sciences Expérimentales, spécialisé en Physique et Chimie",
+        "school": "Lycée Abi Abbes Sebti - Marrakech",
+        "duration": "Sep 2013 - Juil 2014",
+        "details": "Baccalauréat en Sciences Expérimentales, spécialisé en Physique et Chimie."
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Matlab",
+        "Simulink",
+        "C",
+        "Python",
+        "JAVA",
+        "CAN-LIN-Flexray",
+        "ADAS",
+        "BMS",
+        "AUTOSAR",
+        "ISO26262",
+        "Modélisation",
+        "Théorie du contrôle"
+      ],
+      "soft": [
+        "Collaboration",
+        "Résolution de problèmes",
+        "Communication",
+        "Gestion du temps"
+      ]
+    },
+    "languages": ["Anglais - B2", "Français - B2"],
+    "projects": [
+      {
+        "title": "Essaim de drones autonomes pour l'agriculture intelligente",
+        "description": "Conception et mise en œuvre d'une flotte de drones autonomes équipés de systèmes embarqués pour la surveillance en temps réel des cultures et la livraison précise de pesticides. Intégration de réseaux de capteurs sans fil, navigation basée sur GPS et algorithmes de contrôle adaptatif pour optimiser la couverture des champs et l'utilisation des ressources.",
+        "technologies": [
+          "C embarqué",
+          "STM32",
+          "RTOS",
+          "Réseaux de capteurs sans fil",
+          "GPS",
+          "Théorie du contrôle"
+        ],
+        "year": "2023",
+        "tags": ["Systèmes embarqués", "Agriculture", "Drones"]
+      },
+      {
+        "title": "Monocycle électrique auto-équilibré",
+        "description": "Développement d'un monocycle électrique auto-équilibré utilisant une théorie de contrôle avancée et des logiciels embarqués. Mise en œuvre de la fusion de capteurs avec des données IMU, contrôle PID en temps réel et diagnostics Bluetooth pour la stabilité et le retour utilisateur.",
+        "technologies": [
+          "MATLAB/Simulink",
+          "Arduino",
+          "Capteurs IMU",
+          "Contrôle PID",
+          "Bluetooth"
+        ],
+        "year": "2022",
+        "tags": ["Théorie du contrôle", "Robotique", "Monocycle"]
+      }
+    ]
+  }
+}

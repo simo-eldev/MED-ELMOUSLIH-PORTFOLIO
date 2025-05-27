@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add animations for a futuristic feel */
+body {
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+section {
+  transition: transform 0.3s ease-in-out;
+}
+
+section:hover {
+  transform: scale(1.02);
+}
+
+button {
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #4a90e2;
+}

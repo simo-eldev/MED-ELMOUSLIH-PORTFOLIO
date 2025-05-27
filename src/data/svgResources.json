@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "name": "DrawKit",
+      "link": "https://www.softr.io/blog/free-svg-illustrations",
+      "description": "MIT-licensed database of free SVG illustrations, offering a variety of illustration packs.",
+      "license": "Free for commercial and personal use"
+    },
+    {
+      "name": "SVG Repo",
+      "link": "https://www.svgrepo.com/",
+      "description": "Wide variety of free icons and vectors for commercial use.",
+      "license": "Free for commercial use"
+    },
+    {
+      "name": "Design Bundles",
+      "link": "https://designbundles.net/free-design-resources/free-svgs",
+      "description": "Extensive library of free SVG files for Cricut, Silhouette, and beyond.",
+      "license": "Free for personal and commercial use"
+    },
+    {
+      "name": "unDraw",
+      "link": "https://atomisystems.com/elearning/must-know-free-svg-download-websites/",
+      "description": "Open source library with customizable SVG images.",
+      "license": "Free for any purpose"
+    }
+  ]
+}
