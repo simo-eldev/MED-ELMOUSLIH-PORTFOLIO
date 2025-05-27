@@ -1,6 +1,7 @@
 {
   "name": "bilingual-portfolio",
   "version": "0.1.0",
+  "homepage": "https://simo-eldev.github.io/mohamed-elmouslih-portfolio",
   "private": true,
   "scripts": {
     "dev": "vite",
