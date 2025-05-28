@@ -1,7 +1,7 @@
 {
   "name": "bilingual-portfolio",
   "version": "0.1.0",
-  "homepage": "https://simo-eldev.github.io/mohamed-elmouslih-portfolio",
+  "homepage": "https://simo-eldev.github.io/MED-ELMOUSLIH-PORTFOLIO",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
