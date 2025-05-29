@@ -9,7 +9,7 @@ const Home = () => {
     <section className="relative flex flex-col items-center justify-center min-h-[70vh] text-center bg-gradient-to-br from-blue-50 via-white to-purple-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 py-16">
       <div className="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none select-none bg-[url('https://www.transparenttextures.com/patterns/diamond-upholstery.png')] dark:bg-none"></div>
       <img
-        src="https://avatars.githubusercontent.com/u/9919?v=4"
+        src="/avatar.png"
         alt="Avatar"
         className="w-28 h-28 rounded-full border-4 border-blue-500 shadow-lg mb-6 z-10"
       />
@@ -25,7 +25,7 @@ const Home = () => {
       <a
         href={about.downloadCV}
         className="px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-full shadow-lg hover:from-blue-700 hover:to-purple-700 font-semibold transition-all duration-200 z-10"
-        download
+        target="_blank"
       >
         {t("Download CV")}
       </a>

@@ -7,7 +7,7 @@ const navLinks = [
   { to: "/", label: "Home" },
   { to: "/about", label: "About" },
   { to: "/projects", label: "Projects" },
-  { to: "/experience", label: "Experience" }, 
+  { to: "/experience", label: "Experience" },
   { to: "/education", label: "Education" },
 ];
 
@@ -94,11 +94,18 @@ const Layout = ({ children }) => {
           <ul className="space-y-2">
             <li>
               <span className="font-semibold">Phone:</span>{" "}
-              {about.phone || "Not available"}
+              <a
+                href={"tel:" + about.phone}
+                className="underline hover:text-blue-200"
+              >
+                {about.phone || "Not available"}
+              </a>
             </li>
             <li>
               <span className="font-semibold">Email:</span>{" "}
-              {about.email || "Not available"}
+              <a href={"mailto:" + about.email}>
+                {about.email || "Not available"}
+              </a>
             </li>
             <li>
               <span className="font-semibold">LinkedIn:</span>{" "}
