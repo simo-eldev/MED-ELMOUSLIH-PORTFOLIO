@@ -1,0 +1,99 @@
+MOHAMED EL MOUSLIH
+Embedded systems Engineer
++212600754492
+
+elmouslihmohamed@gmail.com
+
+Rabat,Maroc
+
+www.linkedin.com/in/mohamed-elmouslih-250572139/
+
+Summary
+
+Work Experience
+
+Passionate engineer with expertise
+
+ALTEN Delivery Center
+
+in control systems and embedded
+software, focused on automotive .
+Strong problem-solving and
+communication skills.
+
+Matlab-Simulink Developper for Stellantis (Opel Automobile)
+Developed models and signal processing scripts to analyze NVH (Noise,
+Vibration, and Harshness) data and support system validation
+Analysis of customer requirements and evaluation of their feasibility.
+Modeling NVH systems and components using Simulink and MATLAB
+scripts.
+Implementing signal processing algorithms for vibration and acoustic
+
+Education
+Master's degree in Industrial
+Computer Control, Signals and
+Systems.
+Faculty of science | Cadi Ayyad
+University-Marrakech
+sept., 2018 - juin, 2020
+
+Licence degree in Science and
+Technology, with a focus on
+Computer Science, Electronics,
+Electrotechnics, and Automation.
+Faculty of science & technology |
+Cadi Ayyad University-Marrakech
+sept., 2017 - juin, 2018
+
+High school diploma in
+Experimental Sciences,
+specialized in Physics and
+Chemistry.
+Abi Abbes Sebti High school Marrakech
+sept., 2013 - juil., 2014
+
+Technical Skills
+Matlab, Simulink, C, Python, JAVA, CANLIN-Flexray, ADAS,BMS,AUTOSAR,
+ISO26262, Modeling, Control theory
+
+Soft Skills
+Collaboration, Problem-solving,
+Communication, Time management
+
+janv., 2024 - Present
+
+analysis (FFT, ﬁltering, order tracking, etc.).
+Unit testing to detect anomalies and debugging to resolve them.
+Compiling and generating executables for the Guest User Interface
+application.
+Delivery of the application and simulink model via GitHub.
+Addressed post-delivery bugs based on customer feedback.
+ALTEN Delivery Center
+
+juin, 2022 - janv., 2024
+
+Model-Based Design development for PSA Group
+Developed high-abstraction-level AUTOSAR software components
+(ASWCs) using a Model-Based Design (MBD) approach, and I owned the
+Interior Lighting function. My tasks included::
+Proofreading customer requirements to assess feasibility.
+Implementing requirements using MATLAB/Simulink and Stateﬂow
+following the Model-Based Design (MBD) approach.
+Ensuring high-quality deliverables through functional veriﬁcation using
+Model-in-the-Loop (MIL), Software-in-the-Loop (SIL), and Back-to-Back
+testing.
+Generating code for AUTOSAR software components from
+Simulink/Stateﬂow models using Embedded Coder.
+Ensuring compliance of deliverables with MISRA C, MAB guidelines, and
+ISO 26262 standards.
+Analyzing software defects reported by validation teams using CANalyzer
+and MATLAB/Simulink.
+Reviewing and approving deliverables for quality assurance using
+Git/GitHub.
+
+Languages
+English - B2, French - B2
+
+Created using https://atsresume.vercel.app/
+
+
